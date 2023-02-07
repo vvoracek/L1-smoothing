@@ -1,4 +1,4 @@
-# L1-smoothing
+# Improving $\ell_1$-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints
 
 Code for the paper "Improving $\ell_1$-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints"
 
