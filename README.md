@@ -1,8 +1,8 @@
-# Improving $\ell_1$-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints
+# Improving l1-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints
 
-Code for the paper "Improving $\ell_1$-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints"
+Code for the paper "Improving $\ell_1$-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints" (https://openreview.net/pdf?id=vPLIRidmYO)
 
-Most of the code is reused from (Levine 2021) https://github.com/alevine0/smoothingSplittingNoise (and thus from (Yang et al. 2020) available at https://github.com/tonyduan/rs4a)
+Pats of the code are reused from (Levine 2021) https://github.com/alevine0/smoothingSplittingNoise (and thus from (Yang et al. 2020) available at https://github.com/tonyduan/rs4a), indicated on top of files.
 
 Instructions for installing dependencies are reproduced here:
 
